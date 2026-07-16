@@ -1,5 +1,5 @@
 
-🩺 VitalCheck — Online Health Advisory System
+## 🩺 VitalCheck — Online Health Advisory System
 
 A web-based Machine Learning application that predicts the risk of **Heart Disease, Diabetes, Kidney Disease, and Liver Disease** from a short clinical questionnaire. Based on your input, the system gives an instant risk estimate and advises whether a medical consultation is recommended.
 
